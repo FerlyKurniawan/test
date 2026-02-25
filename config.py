@@ -1,1 +1,5 @@
-.
+OWNER_ID = 12345
+API_ID = 123455
+API_HASH = "1274udbdje8ejdndn"
+BOT_TOKEN = "12345678:ejfbdjrjdn"
+BOT_ID = 
